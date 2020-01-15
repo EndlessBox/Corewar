@@ -20,6 +20,6 @@ Further information, please give a look to :
 
 # Visualitation
 
-![Visualitation](assets/ezgif.com-video-to-gif.gif)
+![Visualitation](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Enjoy.
