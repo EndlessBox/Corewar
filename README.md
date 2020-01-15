@@ -20,6 +20,6 @@ Further information, please give a look to :
 
 # Visualitation
 
-![Farmers Market Finder Demo](assets/ezgif.com-video-to-gif.gif)
+![Farmers Market Finder Demo](/assets/ezgif.com-video-to-gif.gif)
 
 Enjoy.
