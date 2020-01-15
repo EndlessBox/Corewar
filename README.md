@@ -18,7 +18,8 @@ You will thus get acquainted with VM conception (with instructions it recognizes
 Further information, please give a look to :
 - https://github.com/EndlessBox/Corewar/blob/master/corewar.en.pdf.
 
+# Visualitation
 
-
+![Farmers Market Finder Demo](/assets/ezgif.com-video-to-gif.gif)
 
 Enjoy.
